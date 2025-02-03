@@ -12,3 +12,11 @@ DeepSeek Janus is a **multi-expert Mixture of Experts (MoE) model** designed for
 ## Creating very interesting images with prompt using deepseek Janus
 
    Colab: [Create very interesting images with prompt](https://colab.research.google.com/drive/1hYcv9058Zz7FJKvE8ETMlBU39gD_WP6h?usp=sharing)
+   
+   Youtube: https://youtu.be/urNtZIhj6zA
+
+## Provide interesting image as input and generate interesting information.
+
+   Colab: [Generate content from image](https://colab.research.google.com/drive/1LG2kvgWxG1nkq_rtdLQh0FOm0xmJCt7Q?usp=sharing)
+   
+   Youtube: 
