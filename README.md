@@ -19,4 +19,4 @@ DeepSeek Janus is a **multi-expert Mixture of Experts (MoE) model** designed for
 
    Colab: [Generate content from image](https://colab.research.google.com/drive/1LG2kvgWxG1nkq_rtdLQh0FOm0xmJCt7Q?usp=sharing)
    
-   Youtube: 
+   Youtube: https://youtu.be/nbRCj6o2tv8
