@@ -13,3 +13,5 @@
 ## Deepseek R1 for text to text interesting conversation
 
    Colab: [R1 for text to text](https://colab.research.google.com/drive/1KUp-3A0mGh4MTNr1cl8Zf_yWpp6sfw_M?usp=sharing)
+
+   Youtube: https://youtu.be/UqEFAOf6HgE
