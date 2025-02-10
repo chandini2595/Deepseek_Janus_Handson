@@ -2,10 +2,6 @@
 
 Youtube: https://youtu.be/zwMiXuDMRuw
 
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/roocode.roocode-extension?label=VS%20Code%20Marketplace&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=roocode.roocode-extension)
-[![License](https://img.shields.io/github/license/roocode/roocode-extension)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/roocode/roocode-extension)](https://github.com/roocode/roocode-extension/issues)
-
 🚀 **RooCode** is a lightweight yet powerful VS Code extension that enhances your coding experience with intelligent features, seamless integrations, and productivity-boosting tools.
 
 ---
